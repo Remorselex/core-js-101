@@ -344,7 +344,7 @@ function isBracketsBalanced(/* str */) {
  *    365, 4  => '11231'
  *    365, 10 => '365'
  */
-function toNaryString( num, n) {
+function toNaryString(num, n) {
   return num.toString(n);
 }
 
